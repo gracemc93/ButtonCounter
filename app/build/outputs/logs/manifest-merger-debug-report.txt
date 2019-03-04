@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\58b620674195901d0dc4a74cf963adcc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4dad6c2f4250366fb01a5ff8503359e5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b323ac4a966f1370b47113390dbcd803\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8b34c96756654b8f0205a0456c6466ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0454e7e4875e3ca8be63ea6c43acee8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1ab8bc344e19d5af7db6e583f1b86f58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\3ccdc13bb3bfc8b4d36fce2391a88a9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e3df1dac1f7b12f0eeaded11a23e119a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d18e575b47d2e8691e88e6374571d53c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9570a60667b06542b86fa07244216c4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\42597218a71fcf017c5dee23f0ea30ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7e65ab6a139a9427cd0b56291e0fd33f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\feb1f542b0dc757565e1cafe0d60ac22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4a7a760c586d0bce2d8fe2a063c7516f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\35c499a3372cd14123fb3ba9f0c67e97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\68d6a3e320f8dcab4c3f55a04d48a98b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0e2f6afe95ef75c30c37fc181a236b42\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4eafe8d66d4594af4179ecc8a7c4bd3a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\44001ffa863e0028c73fe04127ef3e76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7379066a4e790ae64bbbef2f01d6c409\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c0d9acd7f04953b1783e12da284427f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3c3d24690bc65838f6646693e98edb39\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a1c48f1bae7c1f63cfe82da8a8f3f791\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9a1cdd9aed331d54877bf77a17546033\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\54172c957b5b671dfa38c236a8c2da3f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1ce4318b763993ffbcb4e2584801c98e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5d918f5c5b55fcf19ef238bb3e681379\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4dad6c2f4250366fb01a5ff8503359e5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4dad6c2f4250366fb01a5ff8503359e5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\68d6a3e320f8dcab4c3f55a04d48a98b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\68d6a3e320f8dcab4c3f55a04d48a98b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0e2f6afe95ef75c30c37fc181a236b42\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0e2f6afe95ef75c30c37fc181a236b42\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\68d6a3e320f8dcab4c3f55a04d48a98b\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.buttoncounter.MainActivity
+ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\58b620674195901d0dc4a74cf963adcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\58b620674195901d0dc4a74cf963adcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4dad6c2f4250366fb01a5ff8503359e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4dad6c2f4250366fb01a5ff8503359e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b323ac4a966f1370b47113390dbcd803\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b323ac4a966f1370b47113390dbcd803\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8b34c96756654b8f0205a0456c6466ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8b34c96756654b8f0205a0456c6466ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0454e7e4875e3ca8be63ea6c43acee8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0454e7e4875e3ca8be63ea6c43acee8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1ab8bc344e19d5af7db6e583f1b86f58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1ab8bc344e19d5af7db6e583f1b86f58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\3ccdc13bb3bfc8b4d36fce2391a88a9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\3ccdc13bb3bfc8b4d36fce2391a88a9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e3df1dac1f7b12f0eeaded11a23e119a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e3df1dac1f7b12f0eeaded11a23e119a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d18e575b47d2e8691e88e6374571d53c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d18e575b47d2e8691e88e6374571d53c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9570a60667b06542b86fa07244216c4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9570a60667b06542b86fa07244216c4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\42597218a71fcf017c5dee23f0ea30ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\42597218a71fcf017c5dee23f0ea30ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7e65ab6a139a9427cd0b56291e0fd33f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\7e65ab6a139a9427cd0b56291e0fd33f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\feb1f542b0dc757565e1cafe0d60ac22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\feb1f542b0dc757565e1cafe0d60ac22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4a7a760c586d0bce2d8fe2a063c7516f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4a7a760c586d0bce2d8fe2a063c7516f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\35c499a3372cd14123fb3ba9f0c67e97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\35c499a3372cd14123fb3ba9f0c67e97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\68d6a3e320f8dcab4c3f55a04d48a98b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\68d6a3e320f8dcab4c3f55a04d48a98b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0e2f6afe95ef75c30c37fc181a236b42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0e2f6afe95ef75c30c37fc181a236b42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4eafe8d66d4594af4179ecc8a7c4bd3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4eafe8d66d4594af4179ecc8a7c4bd3a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\44001ffa863e0028c73fe04127ef3e76\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\44001ffa863e0028c73fe04127ef3e76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7379066a4e790ae64bbbef2f01d6c409\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\7379066a4e790ae64bbbef2f01d6c409\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c0d9acd7f04953b1783e12da284427f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\c0d9acd7f04953b1783e12da284427f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3c3d24690bc65838f6646693e98edb39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3c3d24690bc65838f6646693e98edb39\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a1c48f1bae7c1f63cfe82da8a8f3f791\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a1c48f1bae7c1f63cfe82da8a8f3f791\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9a1cdd9aed331d54877bf77a17546033\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9a1cdd9aed331d54877bf77a17546033\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\54172c957b5b671dfa38c236a8c2da3f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\54172c957b5b671dfa38c236a8c2da3f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1ce4318b763993ffbcb4e2584801c98e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1ce4318b763993ffbcb4e2584801c98e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5d918f5c5b55fcf19ef238bb3e681379\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gracemcn\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5d918f5c5b55fcf19ef238bb3e681379\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gracemcn\AndroidStudioProjects\ButtonCounter\app\src\main\AndroidManifest.xml

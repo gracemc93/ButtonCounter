@@ -1,0 +1,4 @@
+#Mon Mar 04 18:53:15 GMT 2019
+base.0=C\:\\Users\\gracemcn\\AndroidStudioProjects\\ButtonCounter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
